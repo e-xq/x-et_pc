@@ -1,4 +1,4 @@
 {
-  "title": "v1.1 更新公告",
-  "content": "#Y更新内容:#r#n#B1.已完全同步安卓APP功能#r#n#B2.[A]增加RAun-Time_Logger监视器#r#n#U[BUG_List]#r工具页-模型查看器入口打开的窗口为Test#n#r#R[常驻通知]#r当APP出现小BUG时（不影响实际操作），开发者不会修复（除非严重级BUG【导致崩溃】），在修复严重级BUG时会顺带修复小bug"
+  "title": "v1.2 更新公告",
+  "content": "#Y更新内容:#r#n#B1.[A]在模型查看器对文件名含有:[dxhuang,dxhei,dxlan,dxfen,dxhong,dxlv]中添加表情控制,并一并增加自动眨眼功能#r#n#U[BUG_List]#rNone#n#r#R[常驻通知]#r当APP出现小BUG时（不影响实际操作），开发者不会修复（除非严重级BUG【导致崩溃】），在修复严重级BUG时会顺带修复小bug"
 }
